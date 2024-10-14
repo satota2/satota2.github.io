@@ -1,0 +1,27 @@
+title: "Tatsuya Sato's page"
+
+author:
+  name: Tatsuya Sato
+
+description: >
+  Tatsuya Sato, Ph.D., is a Chief Researcher at Hitachi, Ltd., specializing in research and development on blockchain technologies and system operations. He has been contributing to Hyperledger Fabric.
+
+# theme: minima
+# As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
+# If you want to use the latest Minima version on GitHub Pages, use the following setting and 
+# add a line comment on "theme: minima" above.
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - en.md
+
+minima:
+  social_links:
+   - { platform: github,         user_url: "https://github.com/satota2" }
+   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/tatsuya-sato-21aa2b1a0" }
+
+url: "https://satota2.github.io"
