@@ -5,7 +5,9 @@ title: Tatsuya Sato - 佐藤竜也
 
 ## 所属
 
-- 株式会社日立製作所 研究開発グループ 主任研究員
+- 株式会社日立製作所
+  - 研究開発グループ 主任研究員
+  - [Hitachi OSPO シニアOSSスペシャリスト](https://www.hitachi.co.jp/products/it/oss/efforts/index.html#intro)
 
 ## 主な研究分野・興味
 
@@ -108,6 +110,8 @@ title: Tatsuya Sato - 佐藤竜也
 
 ### 査読なし発表 / その他記事
 
+- 佐藤 竜也, 近藤 佑樹, "LF Decentralized Trust Member Summit 2024 参加レポート", [LF Decentralized Trust Tokyo Meetup](https://www.linuxfoundation.jp/blog/2024/12/join-us-at-the-lf-decentralized-trust-tokyo-meetup-in-shinagawa/), 2024. [[SlideShare](https://www.slideshare.net/slideshow/lfdtmeetuptokyo_membersummit2024report_hitachi-pdf/274318754)]
+
 - 佐藤 竜也, "Hyperledger Fabricコミュニティ活動体験＆Hyperledger Fabric最新状況ご紹介", [Hyperledger Tokyo Meetup - Let’s learn & network with Executive Director Daniela Barbosa and Hitachi Tatsuya Sato, a core maintainer of Hyperledger Fabric](https://www.linuxfoundation.jp/blog/2024/04/join-us-at-the-hyperledger-tokyo-meetup-in-shinagawa/) (*招待講演*), 2024. [[SlideDeck](https://speakerdeck.com/satota2/hyperledger-fabrickomiyuniteihuo-dong-ti-yan-and-hyperledger-fabriczui-xin-zhuang-kuang-goshao-jie-presented-in-hyperledger-tokyo-meetup)] [[SlideShare](https://www.slideshare.net/slideshow/20240516_hlmeetuptokyo_fabricmaintainer_hitachi_sato-pdf/268638684)]
 - Tatsuya Sato, "Meet the Hyperledger Fabric Maintainers – Tatsuya Sato, Hitachi, Ltd" (*インタビュー記事*), Hyperledger Blog, 2024. [[Blog](https://www.lfdecentralizedtrust.org/blog/meet-the-hyperledger-fabric-maintainers-tatsuya-sato-hitachi)]
 - Tatsuya Sato, "Hyperledger Fabric in Production", [Hyperledger Member Summit 2023 APAC](https://events.linuxfoundation.org/hyperledger-member-summit/program/agenda/), 2023. [[SpeakerDeck](https://speakerdeck.com/satota2/hyperledger-fabric-in-production-presented-in-hyperledger-member-summit-2023-apac)]
@@ -122,12 +126,16 @@ title: Tatsuya Sato - 佐藤竜也
 
 - "日本企業で初めて、日立の社員がエンタープライズ向けブロックチェーンのOSS「Hyperledger Fabric」開発プロジェクトのコアメンテナに就任", 日立製作所, 2024. [[Webページ](https://www.hitachi.co.jp/products/it/blockchain/topics/20240418.html)]
 
-## 受賞
+## インタビュー記事
 
+- "Open Source Program Office (OSPO)の設立でOSSの社会実装とIT／OT／DXを加速する", 研究の現場から, 日立製作所, 2025. [[Webページ](https://rd.hitachi.co.jp/_ct/17755434)]
+
+## 受賞
+- Tatsuya Sato, LF Decentralized Trust Japan Chapter Certificate, 2024. [[受賞の様子](https://lf-hyperledger.atlassian.net/wiki/download/thumbnails/17434190/202412%20LFDT%20Tokyo%20Meetup%20photo.png?version=1&modificationDate=1734996440626&cacheVersion=1&api=v2&width=856&height=500)]
 - 佐藤 竜也, 肥村 洋輔, 下沢 拓, [第37回 先端技術大賞 社会人部門 特別賞](https://www.sankei-award.jp/sentan/jusyou/), 産経新聞社, 2024.
   - 受賞研究テーマ名「コンソーシアム型ブロックチェーン向け非中央集権型システム運用管理技術OpsSC」[[内容紹介パネル](https://www.sankei-award.jp/sentan/jusyou/2024/08panel.pdf)] [[受賞論文](https://www.sankei-award.jp/sentan/jusyou/2024/08.pdf)]
-- Hyperledger 2023 Community Recognitions, Hyperledger Foundation, 2024. [[紹介動画](https://www.youtube.com/watch?v=UrhUX9ddztM)]
-- Hyperledger Foundation Hyperledger Foundation Certificate of Appreciation, 2022.
+- Tatsuya Sato, Hyperledger 2023 Community Recognitions, Hyperledger Foundation, 2024. [[紹介動画](https://www.youtube.com/watch?v=UrhUX9ddztM)]
+- Tatsuya Sato, Hyperledger Foundation Hyperledger Foundation Certificate of Appreciation, 2022.
 - 佐藤 竜也, [2018年電子情報通信学会ICM研究賞](https://www.ieice.org/~icm/jpn/award/sub/awardees.html), 2019.
 - 佐藤 竜也, [2009年度コンピュータサイエンス領域奨励賞](https://www.ipsj.or.jp/award/cs-awardee-2009.html), 2010.
 - 佐藤 竜也, [筑波大学大学院 専攻長表彰](https://www.cs.tsukuba.ac.jp/internal/awards.html#20), 2009.

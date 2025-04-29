@@ -8,7 +8,9 @@ permalink: /en/
 
 ## Affiliation
 
-- Chief Researcher, Research & Development Group, Hitachi, Ltd.
+- Hitachi, Ltd.
+  - Chief Researcher, Research & Development Group
+  - Senior OSS Specialist, Hitachi OSPO
 
 ## Main Research Fields and Interests
 
@@ -68,11 +70,11 @@ permalink: /en/
 - Tatsuya Sato, "Hyperledger Fabric in Production", [Hyperledger Member Summit 2023 APAC](https://events.linuxfoundation.org/hyperledger-member-summit/program/agenda/), 2023. [[SpeakerDeck](https://speakerdeck.com/satota2/hyperledger-fabric-in-production-presented-in-hyperledger-member-summit-2023-apac)]
 
 ## Awards
-
+- Tatsuya Sato, LF Decentralized Trust Japan Chapter Certificate, 2024. [[Picture](https://lf-hyperledger.atlassian.net/wiki/download/thumbnails/17434190/202412%20LFDT%20Tokyo%20Meetup%20photo.png?version=1&modificationDate=1734996440626&cacheVersion=1&api=v2&width=856&height=500)]
 - Tatsuya Sato, Yosuke Himura, Taku Shimosawa, [37th Advanced Technology Award](https://www.sankei-award.jp/sentan/jusyou/), The Sankei Shimbun, 2024.
   - [[Panel (in Japanese)](https://www.sankei-award.jp/sentan/jusyou/2024/08panel.pdf)] [[Paper (in Japanese)](https://www.sankei-award.jp/sentan/jusyou/2024/08.pdf)]
-- Hyperledger 2023 Community Recognitions, Hyperledger Foundation, 2024. [[Youtube](https://www.youtube.com/watch?v=UrhUX9ddztM)]
-- Hyperledger Foundation Hyperledger Foundation Certificate of Appreciation, 2022.
+- Tatsuya Sato, Hyperledger 2023 Community Recognitions, Hyperledger Foundation, 2024. [[Youtube](https://www.youtube.com/watch?v=UrhUX9ddztM)]
+- Tatsuya Sato, Hyperledger Foundation Hyperledger Foundation Certificate of Appreciation, 2022.
 - Tatsuya Sato, [IEICE ICM Committee Award](https://www.ieice.org/~icm/jpn/award/sub/awardees.html), 2019.
 - Tatsuya Sato, [IPSJ Computer Science Research Award for Young Scientists](https://www.ipsj.or.jp/award/cs-awardee-2009.html), 2010.
 - Tatsuya Sato, [University of Tsukuba, Graduate School of CS, Chair's Award Dean's Award](https://www.cs.tsukuba.ac.jp/internal/awards.html#20), 2009.
