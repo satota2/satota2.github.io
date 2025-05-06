@@ -28,6 +28,8 @@ title: Tatsuya Sato - 佐藤竜也
 
 ### 査読付き国際会議
 
+- Tatsuya Sato, Taku Shimosawa, Nariyoshi Yamai, "Concept of HAOpsSC: Toward Decentralized Operations for Ensuring High Availability in Consortium Blockchain-based Systems", 2025 IEEE International Conference on Blockchain and Cryptocurrency (ICBC), to appear.
+- Santosh Kumar Maurya, Tatsuya Sato, Satoshi Ito, "Public vs. Permissioned Blockchains for DAOs: Insights for standardized implementations", 2025 IEEE International Conference on Blockchain and Cryptocurrency (ICBC), to appear.
 - Tatsuya Sato, Taku Shimosawa, Nariyoshi Yamai, "BillingOpsSC: Smart Contract-based Service Billing Management Method for Consortium Blockchain-based Systems", 2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC), pp. 1101-1106, 2023. [[DOI](https://doi.org/10.1109/COMPSAC57700.2023.00166)]
 - Tatsuya Sato, Taku Shimosawa, Yosuke Himura, "OpsSC: Decentralized Blockchain Network Operation Workflow for Hyperledger Fabric", 2021 IEEE International Conference on Blockchain (Blockchain), pp. 287-294, 2021. [[DOI](https://doi.org/10.1109/Blockchain53845.2021.00046)]
 - Taku Shimosawa, Tatsuya Sato, Satoshi Oshima, "BCVerifier: A Tool to Verify Hyperledger Fabric Ledgers", 2020 IEEE International Conference on Blockchain (Blockchain), pp. 291-299, 2020. [[DOI](https://doi.org/10.1109/Blockchain50366.2020.00043)]
