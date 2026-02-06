@@ -28,8 +28,11 @@ title: Tatsuya Sato - 佐藤竜也
 
 ### 査読付き国際会議
 
-- Tatsuya Sato, Taku Shimosawa, Nariyoshi Yamai, "Concept of HAOpsSC: Toward Decentralized Operations for Ensuring High Availability in Consortium Blockchain-based Systems", 2025 IEEE International Conference on Blockchain and Cryptocurrency (ICBC), to appear.
-- Santosh Kumar Maurya, Tatsuya Sato, Satoshi Ito, "Public vs. Permissioned Blockchains for DAOs: Insights for standardized implementations", 2025 IEEE International Conference on Blockchain and Cryptocurrency (ICBC), to appear.
+- Koshi Ikegawa, Tatsuya Sato, "Design and Evaluation of a Self-Sovereign Identity System with a Custodial Wallet", 2025 8th International Conference on Blockchain Technology and Applications (ICBTA 2025), 2025.
+- Satoshi Ito, Tatsuya Sato, Takayuki Nagai, Shinsuke Hasegawa, Katsuhiro Fukunaka, Taichi Umeda, "Investigating the Application of Nested NFTs on Consortium Blockchain for Enterprise Supply Chain Traceability Management", 2025 Asia-Pacific Network Operations and Management Symposium (APNOMS), pp. 1-4, 2025. [[DOI](https://doi.org/10.23919/APNOMS67058.2025.11181346)]
+- Santosh Maurya, Tatsuya Sato, Manabu Hasegawa, "Advancing DAO Adoption Through Template-driven Design for Applied Governance in Web3", 2025 7th International Conference on Blockchain Computing and Applications (BCCA), pp. 481-488, 2025. [[DOI](https://doi.org/10.1109/BCCA66705.2025.11229777)]
+- Tatsuya Sato, Taku Shimosawa, Nariyoshi Yamai, "Concept of HAOpsSC: Toward Decentralized Operations for Ensuring High Availability in Consortium Blockchain-based Systems", 2025 IEEE International Conference on Blockchain and Cryptocurrency (ICBC), pp.1-3, 2025. [[DOI](https://doi.org/10.1109/ICBC64466.2025.11114421)]
+- Santosh Kumar Maurya, Tatsuya Sato, Satoshi Ito, "Public vs. Permissioned Blockchains for DAOs: Insights for standardized implementations", 2025 IEEE International Conference on Blockchain and Cryptocurrency (ICBC), pp.1-5, 2025. [[DOI](https://doi.org/10.1109/ICBC64466.2025.11114668)]
 - Tatsuya Sato, Taku Shimosawa, Nariyoshi Yamai, "BillingOpsSC: Smart Contract-based Service Billing Management Method for Consortium Blockchain-based Systems", 2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC), pp. 1101-1106, 2023. [[DOI](https://doi.org/10.1109/COMPSAC57700.2023.00166)]
 - Tatsuya Sato, Taku Shimosawa, Yosuke Himura, "OpsSC: Decentralized Blockchain Network Operation Workflow for Hyperledger Fabric", 2021 IEEE International Conference on Blockchain (Blockchain), pp. 287-294, 2021. [[DOI](https://doi.org/10.1109/Blockchain53845.2021.00046)]
 - Taku Shimosawa, Tatsuya Sato, Satoshi Oshima, "BCVerifier: A Tool to Verify Hyperledger Fabric Ledgers", 2020 IEEE International Conference on Blockchain (Blockchain), pp. 291-299, 2020. [[DOI](https://doi.org/10.1109/Blockchain50366.2020.00043)]
@@ -117,8 +120,11 @@ title: Tatsuya Sato - 佐藤竜也
 
 ### 査読なし発表 / その他記事
 
+- "今年Web3どうなる？ 暗号資産/ブロックチェーン業界を牽引する129人が語る「2026年の展望」", あたらしい経済, 2026. [[Webページ](https://www.neweconomy.jp/features/prospects/536246/2)]
+  - ブロックチェーン・暗号資産業界のプレイヤーの一人として寄稿
+- 梅田多一, 佐藤竜也, "B2B領域におけるWeb3技術 (ブロックチェーン/NFT/VC) の活用事例", [LF Japan Community Days OSAKA - ブロックチェーン/分散トラストトラック](https://www.linuxfoundation.jp/events/2025/08/lf-japan-community-days-2025-in-osaka/), 2025. [[PDF](https://drive.google.com/file/d/1NwLHZPw4klFz05PAm32YFYgI1c1Oqkpi/view)]
+- 佐藤 竜也, "Hyperledger Fabric公式サンプル fabric-samples 徹底解説", [LF Decentralized Trust Tokyo Meetup #4](https://www.linuxfoundation.jp/events/2025/06/lf-decentralized-trust-tokyo-meetup-on-july-8/), 2025. [[SlideShare](https://www.slideshare.net/slideshow/20250708_lfdtmeetuptokyo_fabricsamples_hitachi_sato-pdf/281416368)] [[SpeakerDeck](https://speakerdeck.com/satota2/hyperledger-fabricgong-shi-sanpuru-fabric-samples-che-di-jie-shuo)]
 - 佐藤 竜也, 近藤 佑樹, "LF Decentralized Trust Member Summit 2024 参加レポート", [LF Decentralized Trust Tokyo Meetup](https://www.linuxfoundation.jp/blog/2024/12/join-us-at-the-lf-decentralized-trust-tokyo-meetup-in-shinagawa/), 2024. [[SlideShare](https://www.slideshare.net/slideshow/lfdtmeetuptokyo_membersummit2024report_hitachi-pdf/274318754)]
-
 - 佐藤 竜也, "Hyperledger Fabricコミュニティ活動体験＆Hyperledger Fabric最新状況ご紹介", [Hyperledger Tokyo Meetup - Let’s learn & network with Executive Director Daniela Barbosa and Hitachi Tatsuya Sato, a core maintainer of Hyperledger Fabric](https://www.linuxfoundation.jp/blog/2024/04/join-us-at-the-hyperledger-tokyo-meetup-in-shinagawa/) (*招待講演*), 2024. [[SlideDeck](https://speakerdeck.com/satota2/hyperledger-fabrickomiyuniteihuo-dong-ti-yan-and-hyperledger-fabriczui-xin-zhuang-kuang-goshao-jie-presented-in-hyperledger-tokyo-meetup)] [[SlideShare](https://www.slideshare.net/slideshow/20240516_hlmeetuptokyo_fabricmaintainer_hitachi_sato-pdf/268638684)]
 - Tatsuya Sato, "Meet the Hyperledger Fabric Maintainers – Tatsuya Sato, Hitachi, Ltd" (*インタビュー記事*), Hyperledger Blog, 2024. [[Blog](https://www.lfdecentralizedtrust.org/blog/meet-the-hyperledger-fabric-maintainers-tatsuya-sato-hitachi)]
 - Tatsuya Sato, "Hyperledger Fabric in Production", [Hyperledger Member Summit 2023 APAC](https://events.linuxfoundation.org/hyperledger-member-summit/program/agenda/), 2023. [[SpeakerDeck](https://speakerdeck.com/satota2/hyperledger-fabric-in-production-presented-in-hyperledger-member-summit-2023-apac)]
@@ -135,6 +141,7 @@ title: Tatsuya Sato - 佐藤竜也
 
 ## インタビュー記事
 
+- "耳から学ぶ「Hyperledger Fabric」、企業向けブロックチェーンの可能性 (日立製作所 佐藤竜也)", あたらしい経済, 2025. [[Webページ](https://www.neweconomy.jp/features/audible/476443)]
 - "Open Source Program Office (OSPO)の設立でOSSの社会実装とIT／OT／DXを加速する", 研究の現場から, 日立製作所, 2025. [[Webページ](https://rd.hitachi.co.jp/_ct/17755434)]
 
 ## 受賞
